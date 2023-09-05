@@ -4,12 +4,6 @@
     "homepage": "https://github.com/mirko-pagliai/php-tools",
     "type": "library",
     "license": "MIT",
-    "repositories": [
-	{
-		"type": "vcs",
-		"url": "https://github.com/theoneit/phpuri.git"
-	}
-    ],
     "authors": [
         {
             "name": "Mirko Pagliai",
