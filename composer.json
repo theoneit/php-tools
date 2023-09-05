@@ -6,7 +6,7 @@
     "license": "MIT",
     "repositories": [
 	{
-		"type": "git",
+		"type": "vcs",
 		"url": "https://github.com/theoneit/phpuri.git"
 	}
     ],
